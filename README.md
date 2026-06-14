@@ -125,8 +125,7 @@ GROQ_API_KEY = "your_groq_api_key_here"
 B.Tech in Computer Science (AI & ML Specialization)
 
 - 📧 kavyakamatham147@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐙 [GitHub](https://github.com/your-username)
+
 
 ---
 
