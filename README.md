@@ -8,8 +8,7 @@ This project was built as part of the **NayePankh Foundation Technical Internshi
 
 ## 🌐 Live Demo
 
-👉 [\[Click here to open the app\]](https://nayepankh-ai-assistant-grxy6nfs2xfmie6cfleyjj.streamlit.app/)(https://your-app.streamlit.app) 
-
+👉 https://nayepankh-ai-assistant-grxy6nfs2xfmie6cfleyjj.streamlit.app/
 ---
 
 ## ✨ Features
